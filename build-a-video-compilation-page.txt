@@ -1,0 +1,55 @@
+** start of index.html **
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Video Compilation Page</title>
+</head>
+
+<body>
+    <main>
+        <h1>HSK 3 Lessons</h1>
+        <p>Here are some fun mandarin lessons</p>
+        <section>
+            <h2>HSK 3 Lesson 1</h2>
+            <P>A bit of introduction into the HSK3</p>
+            <iframe width="560" height="315"
+            src="https://www.youtube.com/embed/C75psJlrC0I?si=gklmK08x0sQHkDIf"
+            title="youtube video player"
+           frameborder="0" 
+           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+           allowfullscreen>
+           </iframe>
+        </section>
+        <section>
+            <h2>HSK 3 Lesson 2</h2>
+            <p>A deeper look into the vocubularies</p>
+            <iframe width="560" height="315"
+            src="https://www.youtube.com/embed/Uoem1IlpwUE?si=60T2f7lqPU52Gvhi"
+            title="youtube video player"
+            frameborder="0"
+            allow="accelerometer;autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            allowfullscreen>
+            </iframe>
+        </section>
+        <section>
+            <h2>HSK 3 Lesson 3</h2>
+            <p>A look into the grammar</p>
+            <iframe width="560" height="315"
+            src="https://www.youtube.com/embed/LLvAVyhmKv0?si=z72SRU5zLi5qy2oy"
+            title="youtube video player"
+            frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            allowfullscreen>
+            </iframe>
+        </section>
+    </main>
+
+</body>
+
+</html>
+
+** end of index.html **
+
